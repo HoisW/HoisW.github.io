@@ -710,7 +710,7 @@
 		max-width: 50%;
 		min-width: 27em;
 		padding: 4.5em 3em 3em 3em ;
-		background: #ffffffed;
+		background: rgba(255, 255, 255, 0.9);
 		border-radius: 4px;
 		cursor: default;
 		text-align: center;
